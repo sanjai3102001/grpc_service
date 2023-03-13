@@ -1,4 +1,4 @@
-module github.com/tech-with-moss/go-servicemgmt-grpc
+module github.com/sanjai3102001/grpc_service/grpc_sql_user_server
 
 go 1.16
 
